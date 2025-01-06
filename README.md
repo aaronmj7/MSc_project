@@ -1,3 +1,5 @@
+<a id="readme-top"></a>
+
 # Predicting Movie Ratings and Analyzing Feature Importance Using Tags and Genres: Insights from the MovieLens 32M Dataset
 
 ## Overview
@@ -28,6 +30,8 @@ This project explores the relationship between movie characteristics (genres and
 - The University of Hertfordshire for academic guidance.
 - GroupLens Research for providing the MovieLens dataset.
 - Family and friends for their support.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 --- 
 
